@@ -157,9 +157,3 @@ Used to recreate the vertical blue-to-teal gradient background.
 No build tools or dependencies required.
 
 ---
-
-If you'd like, I can also generate:
-
-* A stronger “high-score” README version (more polished wording)
-* A screenshot-ready version with markdown image embeds
-* Or a GitHub-friendly structure version with badges and deployment instructions
